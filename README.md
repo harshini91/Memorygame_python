@@ -18,7 +18,7 @@ A simple command-line memory game written in Python. Test and improve your memor
 1. Clone the repository:
 
 
-git clone https://github.com/your-username/memory-game.git
+git clone https://github.com/harshini91/Memorygame_python
 cd memory-game
 
 
